@@ -13,7 +13,7 @@ namespace Sorter
             List<Chute> chutes = new List<Chute>();
             foreach (string destination in boxes.Select(box => box.Destination).Distinct().ToList())
             {
-                chutes.Add(new Chute(destination, boxes.FindAll(number => number.Destination.Equals(destination))));
+                chutes.Add(new Chute(destination, boxes.FindAll(box => box.Destination.Equals(destination))));
             }
 
             return chutes;

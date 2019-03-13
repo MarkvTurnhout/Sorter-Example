@@ -18,9 +18,9 @@ namespace Sorter
                 {
                     Console.WriteLine(chute.ToString());
                 }
-
-                Console.ReadKey();
             }
+
+            Console.ReadKey();
         }
     }
 }
