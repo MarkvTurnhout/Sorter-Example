@@ -1,0 +1,14 @@
+D:\Sorter\Sorter\bin\Release\SorterDatabase.mdf
+D:\Sorter\Sorter\bin\Release\SorterDatabase_log.ldf
+D:\Sorter\Sorter\bin\Release\EntityFramework.dll
+D:\Sorter\Sorter\bin\Release\EntityFramework.SqlServer.dll
+D:\Sorter\Sorter\bin\Release\EntityFramework.xml
+D:\Sorter\Sorter\bin\Release\EntityFramework.SqlServer.xml
+D:\Sorter\Sorter\obj\Release\Sorter.csprojAssemblyReference.cache
+D:\Sorter\Sorter\obj\Release\Sorter.csproj.CoreCompileInputs.cache
+D:\Sorter\Sorter\obj\Release\Sorter.csproj.CopyComplete
+D:\Sorter\Sorter\bin\Release\Sorter.exe.config
+D:\Sorter\Sorter\bin\Release\Sorter.exe
+D:\Sorter\Sorter\bin\Release\Sorter.pdb
+D:\Sorter\Sorter\obj\Release\Sorter.exe
+D:\Sorter\Sorter\obj\Release\Sorter.pdb
